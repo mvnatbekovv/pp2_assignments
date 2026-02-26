@@ -19,4 +19,5 @@ for _ in range(n):
         if key in doc:
             print(doc[key])
         else:
-            print(f"KE: no key {key} found in the document")
+            print(f"KE: no key {key} found in the document") 
+            print("hello")

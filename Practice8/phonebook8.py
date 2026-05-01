@@ -101,7 +101,7 @@ def print_contacts(contacts):
 
 # --- Main menu ---
 
-def main():
+def main():ff
     create_table()
 
     while True:

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Maksat",
+        "score": 2688,
+        "distance": 3001,
+        "coins": 23
+    },
+    {
+        "name": "Nikita",
+        "score": 1783,
+        "distance": 1661,
+        "coins": 37
+    },
+    {
+        "name": "Arman",
+        "score": 1500,
+        "distance": 1354,
+        "coins": 22
+    },
+    {
+        "name": "Dias",
+        "score": 1463,
+        "distance": 1348,
+        "coins": 19
+    },
+    {
+        "name": "Max",
+        "score": 1304,
+        "distance": 704,
+        "coins": 24
+    },
+    {
+        "name": "Ayan",
+        "score": 1246,
+        "distance": 1163,
+        "coins": 16
+    },
+    {
+        "name": "Damir",
+        "score": 994,
+        "distance": 800,
+        "coins": 19
+    },
+    {
+        "name": "Alina",
+        "score": 744,
+        "distance": 604,
+        "coins": 14
+    },
+    {
+        "name": "Ruslan",
+        "score": 710,
+        "distance": 590,
+        "coins": 10
+    },
+    {
+        "name": "Max",
+        "score": 676,
+        "distance": 501,
+        "coins": 7
+    }
+]

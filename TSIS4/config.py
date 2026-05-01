@@ -1,0 +1,5 @@
+DB_NAME = "snake"
+DB_USER = "postgres"
+DB_PASSWORD = "Maksat7755"
+DB_HOST = "localhost"
+DB_PORT = "5432"
